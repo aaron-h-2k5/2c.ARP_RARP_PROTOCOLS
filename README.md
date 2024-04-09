@@ -50,7 +50,7 @@ while True:
 <img width="936" alt="Screenshot 2024-04-09 at 12 50 27 PM" src="https://github.com/aaron-h-2k5/2c.ARP_RARP_PROTOCOLS/assets/144250957/c68c8d49-64d6-482b-afb2-c3cb3f587cdb">
 
 ## PROGRAM - RARP
-### CLient:
+### Client:
 ```
 import socket
 s = socket.socket()
